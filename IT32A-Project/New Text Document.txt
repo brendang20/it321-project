@@ -1,0 +1,2 @@
+git push - ibibigay yung mga nagawa mong code sa github
+git pull - kukunin sa github yung mga nagawa mo.
